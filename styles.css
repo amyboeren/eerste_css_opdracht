@@ -1,0 +1,35 @@
+.black-border {
+    border: 3px solid lightgray;
+    padding: 50px;
+}
+#background {
+    background-color: yellow;
+}
+body {
+    background-color: lightcyan;
+    color: navy;
+    font-family: 'Poppins', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: black;
+    font-family: 'Caveat', 'Tahoma';
+}
+h2 {
+    font-size: 17px;
+}
+h2.gerecht {
+    font-size: 25px;
+    font-family: "Sofia", sans-serif;
+    color: darkorchid;
+}
+h3.tip {
+    font-size: 20px;
+    font-family: "Audiowide", sans-serif;
+    color: darkred;
+}
+.coupon {
+	width: 250px;
+	padding: 10px;
+	text-align: center;
+	border: 3px dashed #ccc;
+}
